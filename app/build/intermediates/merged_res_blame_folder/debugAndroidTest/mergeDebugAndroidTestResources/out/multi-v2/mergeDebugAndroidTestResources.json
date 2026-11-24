@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.pro.dslrcamera.test.app-debugAndroidTest-3:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Achu\\Downloads\\ProDSLRCamera\\app\\src\\androidTestDebug\\res\\values\\ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "56",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+- `[ ]` Define 3 range options in `FilterCatalog.kt`
+- `[ ]` Refine color isolation logic in `CameraShaderRenderer.kt`
+- `[ ]` Update UI in `DslrCameraScreen.kt` with preset chips, toggleable custom hue slider icon, and 3 range options
+- `[ ]` Build and verify with Gradle assembleDebug
